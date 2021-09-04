@@ -1,0 +1,95 @@
+#Arch User Music Box theme file
+
+
+#-Backgrounds-----		#backgrounds of several elements
+
+40,44,52		        	player background (top panel)
+35,39,46	        		playlist panel
+40,44,52		        	side panel
+40,44,52		        	bottom panel
+40,44,52		        	gallery background
+40,44,52            	queue panel
+
+#-Frame-----------		#not sure what this is
+
+40,44,52 		        	sep line
+40,44,52 		        	bb line
+40,44,52		        	tb line
+
+#-Playlist--------		#playlist, overrided by column settings when column is on       
+
+171,178,191						track line
+171,178,191						track time
+171,178,191						track index
+198,120,221						track artist
+152,195,121						album line
+
+86,182,194						track playing
+97,175,239						index playing
+97,175,239					  artist playing
+97,175,239						album playing
+97,175,239						time playing
+
+224,108,117						track missing
+
+171,178,191						fav line
+35,39,46							folder line
+97,175,239						folder title 
+
+255,255,255,14				playing highlight
+255,255,255,8					select highlight
+198,120,221						gallery highlight
+
+#-Bottom panel-----   #the panel at the bottom with buttons on it
+
+139,149,167						buttons off
+171,178,191						buttons over
+97,175,239						buttons active
+
+97,175,239						playing time
+
+97,175,239						seek bar
+97,175,239						volume bar
+53,59,70							seek bg
+53,59,70							volume bg
+171,178,191						scroll bar
+
+139,149,167						mode off
+171,178,191						mode over
+97,175,239						mode on
+
+171,178,191					bottom title
+
+#-Menu-------------		#the right-click menu, and also the menu opened by the settings button
+
+43,48,59							menu background
+43,49,59							menu border
+53,59,70							menu highlight
+171,178,191						menu text
+105,117,140						menu disable text
+139,149,167						menu icons
+
+#-Top panel---------	#the top panel with the menu button
+
+198,120,221						tab active line
+171,178,191						tab line
+40,44,52							tab background
+43,48,59							tab over
+53,59,69							tab active background
+198,120,221						music vis
+
+#-Side panel--------	#panel that shows info of currently playing track
+
+171,178,191						title info
+171,178,191						extra info
+198,120,221						art border
+
+#-Mini Mode---------	#mini mode is activated by F8
+
+40,44,52							mini bg
+32,32,32							mini border
+
+#Mini mode text				#for some reason it doesn't actually use these colors
+
+171,178,191						mini text 1
+250,189,47						mini text 2
